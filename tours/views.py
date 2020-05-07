@@ -54,13 +54,3 @@ class TourView(View):
                                                  'title': data.tours[tourid]['title'] + ' ' + data.tours[tourid][
                                                      'stars'] + '★'}
         )
-
-
-class TestView(View):
-    def get(self, request, *args, **kwargs):
-        return render(request, 'test.html', {'name': 'Alex', 'place': 'Lab'})
-
-
-class AboutView(View):
-    def get(self, request):
-        return render(request, 'about.html', {})
