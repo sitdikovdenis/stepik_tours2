@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="630a0be2-dbc0-4f91-8c73-b6eea766cf56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik_tours/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tours/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik_tours/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tours/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/tours/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours/templates/tours/departure.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours/templates/tours/departure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours/templates/tours/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours/templates/tours/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours/templates/tours/tour.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours/templates/tours/tour.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tours/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="630a0be2-dbc0-4f91-8c73-b6eea766cf56" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1587927553504</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1588835014003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588835014003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
