@@ -16,12 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from tours.views import AboutView, DepartureView, MainView, TourView
+from tours.views import DepartureView, MainView, TourView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', MainView.as_view()),
     path('departure/<str:departure>', DepartureView.as_view()),
     path('tour/<int:tourid>/', TourView.as_view()),
-    path('about/', AboutView.as_view()),
 ]
